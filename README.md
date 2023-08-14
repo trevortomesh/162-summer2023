@@ -54,11 +54,11 @@ Details on options, settings, environmental variables, etc. go here!
 ## Contributing
 This is where you explain how you would like potential contributors to engage with you / the community. You may want to include your email here or some other information as to how someone can contact you. 
 
-![UWRF Logo](https://www.uwrf.edu/UCM/images/UWRF_Mark_RGB-4.png)
 
 [Email Me!](mailto:dev@project.com)
 
 ## License
 Include license information here!
 
- 
+ ## Made With Pride at the University of Wisconsin - River Falls!
+ <img src = "https://www.uwrf.edu/UCM/images/UWRF_Mark_RGB-4.png" alt="UWRF LOGO" width="300"/>
