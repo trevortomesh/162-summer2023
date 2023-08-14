@@ -36,17 +36,17 @@ sudo apt-get install myStuff
 ```
 brew install thingy
 ```
-###Build from Source
+### Build from Source
 
 This is how you build from source...
 
-##Usage
+## Usage
 This is where you will explain how to use the software.
 
-##Configuration
+## Configuration
 Details on options, settings, environmental variables, etc. go here!
 
-##Contributing
+## Contributing
 This is where you explain how you would like potential contributors to engage with you / the community. You may want to include your email here or some other information as to how someone can contact you. 
 
 [Email Me!](mailto:dev@project.com)
