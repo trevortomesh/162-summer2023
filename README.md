@@ -1,8 +1,10 @@
 # CIDS 162 Example Repository
+<div align = "center">
 This is an example of a repository for my CIDS 162 class.
 My hope is that this will serve to help them and provide a 
 template for repositories that they might create in their
 future projects.
+</div>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/trevortomesh/162-summer2023)
 
