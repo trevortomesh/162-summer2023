@@ -9,7 +9,7 @@ future projects.
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [For Mac Users](#Mac)
-- [Building from Source](#Build from Source)
+- [Building from Source](#build-from-source)
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
